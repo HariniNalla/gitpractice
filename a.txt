@@ -1,3 +1,4 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 learning git branching
-
+modification in b2
