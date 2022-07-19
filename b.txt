@@ -1,1 +1,2 @@
-learning git inserting second file
+learning git inserting second fil
+modificartion for stashing
