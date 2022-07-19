@@ -1,2 +1,2 @@
 learning git branchin
-modificationg
+modification in b2
