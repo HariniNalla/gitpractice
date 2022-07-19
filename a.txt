@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 learning git branching
-modified in master
+
